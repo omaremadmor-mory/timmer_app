@@ -13,11 +13,6 @@ The app is built using **Flutter + BLoC** for state management.
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots here once you run the app)*
-
----
-
 ## 🛠️ Tech Stack
 - **Flutter**  
 - **Dart**  
