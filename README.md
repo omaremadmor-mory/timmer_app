@@ -1,16 +1,34 @@
-# timmer_test
+# ⏱️ Timmer Test
 
-A new Flutter project.
+A modern and minimal **Flutter stopwatch app** with a clean UI and wave animation background.  
+The app is built using **Flutter + BLoC** for state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Start, pause, and reset stopwatch.  
+- Beautiful **wave animation** background with gradient colors.  
+- Responsive and minimal UI.  
+- Built with **BLoC state management**.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+*(Add screenshots here once you run the app)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+- **Flutter**  
+- **Dart**  
+- **BLoC (flutter_bloc)**  
+- **wave package**  
+
+---
+
+## ▶️ Getting Started
+
+Clone the repository:
+```bash
+git clone https://github.com/USERNAME/timmer_test.git
+cd timmer_test
